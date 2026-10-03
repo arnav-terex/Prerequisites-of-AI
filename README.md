@@ -1,2 +1,3 @@
 # Machine-Learning
-Learning Machine Learning ( its code would be uploded here)
+# Deep-Learning
+Learning Machine Learning, Deep Learning ( its code would be uploded here)
